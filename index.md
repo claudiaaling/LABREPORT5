@@ -8,4 +8,13 @@
 
 3. Terminal Output
 ![Image](LAB5Pt2.png) 
-- The bug 
+- In ListExamplesTests.java, one of the test failed due to the bug in the code where there was a syntax error in ListExamples.java.
+
+4a. File and Directory Structure
+![Image](LAB5Pt3.png) 
+
+4b. Contents of each file before fixing the bug
+![Image](LAB5Pt4.png) 
+
+4c. Command Lines ran to trigger bug
+![Image](LAB5Pt5.png) 
