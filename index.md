@@ -21,3 +21,4 @@
 ~~~
 bash test.sh
 ~~~
+![Image](LAB5Pt6.png) 
