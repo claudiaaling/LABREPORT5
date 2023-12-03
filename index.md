@@ -15,6 +15,9 @@
 
 4b. Contents of each file before fixing the bug
 ![Image](LAB5Pt4.png) 
+![Image](LAB5Pt5.png) 
 
 4c. Command Lines ran to trigger bug
-![Image](LAB5Pt5.png) 
+~~~
+bash test.sh
+~~~
